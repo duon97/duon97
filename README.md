@@ -36,9 +36,8 @@ RFM scoring and K-Means clustering to segment customers and recommend targeted m
 
 ## 🎓 Education & Certifications
 
-Bachelor of Finance-Banking, UEH University (GPA: X.XX)
+Bachelor of Finance-Banking, UEH University 
 
-- Add awards and certifications here
 
 ## 🤝 Let's Connect
 
