@@ -10,19 +10,22 @@ Graduate of the University of Economics Ho Chi Minh City (UEH), building a caree
 
 ## 📊 Featured Projects
 
-### [Digital Banking & Neobanks Health Monitor | Power BI, DAX](https://github.com/YOUR_USERNAME/Power-BI--Digital-Banking-and-Neobanks-Health-Monitor)
+### [Digital Banking & Neobanks Health Monitor | Power BI, DAX](https://github.com/duon97/Power-BI--Digital-Banking-and-Neobanks-Health-Monitor)
 Monitors transaction health across a bank's digital transaction pipeline by identifying friction, fraud exposure and revenue leakage.
 
-### [Real Estate Market Analytics | Power BI](https://github.com/YOUR_USERNAME/Power-BI--Real-Estate-Market-Analytics-)
+### [Real Estate Market Analytics | Power BI](https://github.com/duon97/Power-BI--Real-Estate-Market-Analytics-)
 Decision-making report for real estate analysts, property investors and marketplace product teams to understand market trends and compare segments.
 
-### [Marketing Analysis Project | Excel, Power BI, PowerPoint](https://github.com/YOUR_USERNAME/Excel-Power-BI-Power-Point--Marketing-Analysis-Project)
+### [Marketing Analysis Project | Excel, Power BI, PowerPoint](https://github.com/duon97/Excel-Power-BI-Power-Point--Marketing-Analysis-Project)
 Analyzes marketing data across Ads, Website, Social and Email to evaluate campaign performance and customer behavior.
 
-### [Phone Sales Dataset | SQL, BigQuery](https://github.com/YOUR_USERNAME/SQL---Phone-Sales-Dataset)
+### [Phone Sales Dataset | SQL, BigQuery](https://github.com/duon97/SQL---Phone-Sales-Dataset)
 Uses BigQuery SQL to analyze phone sales data: revenue, top products, customer behavior and sales trends.
 
-### [Customer Segmentation & Targeted Marketing Strategy | Python](https://github.com/YOUR_USERNAME/Python---Customer-Segmentation-and-Targeted-Marketing-Strategy-using-RFM-and-K-Means)
+### [Explore-Ecommerce-Dataset | SQL, BigQuery](https://github.com/duon97/SQL--Explore-Ecommerce-Dataset)
+Uses BigQuery SQL to analyze Google Analytics e-commerce data in order to evaluate website traffic performance, customer behavior, and the conversion funnel.
+
+### [Customer Segmentation & Targeted Marketing Strategy | Python](https://github.com/duon97/Python---Customer-Segmentation-and-Targeted-Marketing-Strategy-using-RFM-and-K-Means)
 RFM scoring and K-Means clustering to segment customers and recommend targeted marketing strategies.
 
 ## 🛠️ Technical Skills
