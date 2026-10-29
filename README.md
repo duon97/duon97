@@ -16,8 +16,8 @@ Monitors transaction health across a bank's digital transaction pipeline by iden
 ### [Real Estate Market Analytics | Power BI](https://github.com/duon97/Power-BI--Real-Estate-Market-Analytics-)
 Decision-making report for real estate analysts, property investors and marketplace product teams to understand market trends and compare segments.
 
-### [Marketing Analysis Project | Excel, Power BI, PowerPoint](https://github.com/duon97/Excel-Power-BI-Power-Point--Marketing-Analysis-Project)
-Analyzes marketing data across Ads, Website, Social and Email to evaluate campaign performance and customer behavior.
+### [Market Expansion Analysis | Power BI](https://github.com/duon97/Power-BI--Market-Expansion-and-Product-Strategy/tree/main)
+Analyze sales, profit, customer, and product data to identify market expansion opportunities.
 
 ### [Phone Sales Dataset | SQL, BigQuery](https://github.com/duon97/SQL---Phone-Sales-Dataset)
 Uses BigQuery SQL to analyze phone sales data: revenue, top products, customer behavior and sales trends.
