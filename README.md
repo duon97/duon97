@@ -2,7 +2,7 @@
 # 👨‍💻 Duong Minh Nhat
 Data Analyst | Banking & Finance Background
 
-📍 Ho Chi Minh City | 📧 [your-email@gmail.com](mailto:your-email@gmail.com)
+📍 Ho Chi Minh City | 📧 [duongnhat426@gmail.com](mailto:your-email@gmail.com)
 
 ## 👋 About Me
 
