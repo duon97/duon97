@@ -28,7 +28,7 @@ Uses BigQuery SQL to analyze Google Analytics e-commerce data in order to evalua
 ### [Customer Segmentation & Targeted Marketing Strategy | Python](https://github.com/duon97/Python---Customer-Segmentation-and-Targeted-Marketing-Strategy-using-RFM-and-K-Means)
 RFM scoring and K-Means clustering to segment customers and recommend targeted marketing strategies.
 
-### [Building a Data Warehouse | SSIS](https://github.com/duon97/(https://github.com/duon97/SSIS--Build-Data-Warehouse))
+### [Building a Data Warehouse | SSIS-SQL](https://github.com/duon97/SSIS--Build-Data-Warehouse)
 Build a Customer Attrition Data Warehouse using a Star Schema architecture to support analytics and reporting
 
 ## 🛠️ Technical Skills
