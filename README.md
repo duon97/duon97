@@ -44,8 +44,7 @@ Bachelor of Finance-Banking, UEH University
 
 ## 🤝 Let's Connect
 
-💌 [your-email@gmail.com](mailto:your-email@gmail.com)
-🔗 [LinkedIn](LINK_TO_LINKEDIN)
-📂 [My GitHub Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+💌 [Email](duongnhat426@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/duong-minh-nhat-4084091b8/)
   
 
